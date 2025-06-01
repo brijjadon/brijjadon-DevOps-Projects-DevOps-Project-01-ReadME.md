@@ -375,17 +375,11 @@ Golden AMIs will be created for the different tiers (Nginx, Tomcat, Maven) of th
 
 ---
 
-## 🛠️ Author & Community  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
 
 📧 **Connect with me:**
 
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
+- *
+- **LinkedIn**: [brij mohan singh](https://www.linkedin.com/in/brij-mohan-singh-731587a2/)  
 
 ---
 
@@ -395,4 +389,4 @@ If you found this helpful, consider **starring** ⭐ the repository and sharing 
 
 ### 📢 Stay Connected  
 
-![Follow Me](https://imgur.com/2j7GSPs.png)  
+
